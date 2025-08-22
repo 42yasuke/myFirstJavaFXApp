@@ -14,14 +14,6 @@ Il s'agit d'une simple application JavaFX qui permet à l'utilisateur d'ajouter 
 - **Maven** pour la gestion des dépendances.
 - **JavaFX 13** (géré automatiquement via Maven).
 
-## Installation et exécution
-
-1. Clonez le dépôt :
-   ```bash
-   git clone <url-du-repo>
-   cd javafx
-   ```
-
 ## Prérequis
 
 - **Java 11** ou une version ultérieure.
