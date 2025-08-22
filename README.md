@@ -45,5 +45,5 @@ Il s'agit d'une simple application JavaFX qui permet à l'utilisateur d'ajouter 
    un bouton "Add", et une liste.
 
 <div align="center">
-<img src="screenshot.png" alt="App screenshot"/>
+<img src="images/screenshot.png" alt="App screenshot"/>
 </div>
